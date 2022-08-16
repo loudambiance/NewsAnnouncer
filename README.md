@@ -10,9 +10,9 @@ There is a single permission 'news' that grants access to manage news and is giv
 
 Commands:
 
-        create usage: /news create <# of times show> <news message>");
-        delete usage: /news delete <id#>");
-        enable usage: /news enable <id#>");
-        disable usage: /news disable <id#>");
-        edit usage: /news edit <id-#> <# of times show> <news message
+        create usage: /news create <# of times show> <news message>
+        delete usage: /news delete <id#>
+        enable usage: /news enable <id#>
+        disable usage: /news disable <id#>
+        edit usage: /news edit <id-#> <# of times show> <news message>
         list usage: /news list <page-#>
